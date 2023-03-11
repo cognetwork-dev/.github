@@ -12,4 +12,21 @@
 <a href="https://reddit.com/r/FogNetwork"><img height="30px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"><img></a>
 </p>
 
-Fog Network 2.0 if I ever feel like it 😏
+### About
+We are dedicated to ending censorship by creating web proxies and other similar services.
+
+This will be Fog Network 2.0 if I ever feel like it 😏
+
+- Bypass web filters at school or work
+- Respecting your privacy
+- Good looking websites
+- Open source projects
+
+### Projects
+- Metallic - Proxy site. Sequel to Tsunami
+- Btn - Create buttons for Github
+- Dewdrop - A window system for websites or bookmarklets. Sequel to Nightmare
+- Cog Dispenser - Simple proxy bot. Sequel to Fog Bot
+
+### Developers
+- [Nebelung](https://github.com/Nebelung-Dev) - Owner
