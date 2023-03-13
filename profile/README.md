@@ -24,6 +24,7 @@ This will be Fog Network 2.0 if I ever feel like it 😏
 
 ### Projects
 - Metallic - Proxy site. Sequel to Tsunami
+- Eclipse - Web proxy that has taken too long
 - Btn - Create buttons for Github
 - Dewdrop - A window system for websites or bookmarklets. Sequel to Nightmare
 - Cog Dispenser - Simple proxy bot. Sequel to Fog Bot
