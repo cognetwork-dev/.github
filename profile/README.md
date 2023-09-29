@@ -15,8 +15,6 @@
 ### About
 We are dedicated to ending censorship by creating web proxies and other similar services.
 
-This will be Fog Network 2.0 if I ever feel like it 😏 (Home of Metallic)
-
 - Bypass web filters at school or work
 - Respecting your privacy
 - Good looking websites
