@@ -21,8 +21,10 @@ We are dedicated to ending censorship by creating web proxies and other similar 
 - Open source projects
 
 ### Projects
-- Metallic - Proxy site. Finished and still working on it.
-- Calculator Proxy - Just a clone of the other calc proxies but looking better. It's already finished.
+- Metallic - Proxy site.
+- Cobalt - New proxy site.
+- Galexy - Also new proxy site.
+- Calculator Proxy - Yeah.
 - Eclipse - Web proxy that has taken too long.
 - Github Buttons (Name not final) - Create deploy buttons for Github. Works as of now.
 - Windows (Name not final) - A window system for websites or bookmarklets. Kind of a standard for bookmarklets. Sequel to Nightmare. 90% finished.
