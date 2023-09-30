@@ -21,14 +21,15 @@ We are dedicated to ending censorship by creating web proxies and other similar 
 - Open source projects
 
 ### Projects
-- Metallic - Proxy site.
-- Cobalt - New proxy site.
-- Galexy - Also new proxy site.
-- Calculator Proxy - Yeah.
-- Eclipse - Web proxy that has taken too long.
-- Github Buttons (Name not final) - Create deploy buttons for Github. Works as of now.
-- Windows (Name not final) - A window system for websites or bookmarklets. Kind of a standard for bookmarklets. Sequel to Nightmare. 90% finished.
-- Cog Dispenser - Simple (on proxy) proxy bot. All the latest features. Finished just need to release.
+- [Metallic](https://github.com/cognetwork-dev/Metallic) - A powerful web proxy build for speed and customization.
+- - [Metallic Original Source](https://github.com/cognetwork-dev/Metallic-Original-Source) - The Original source code of Metallic.
+- [Cobalt](https://github.com/cognetwork-dev/Cobalt) - A new minimal yet powerful proxy site, built for both users and developers.
+- - [Cobalt Ratings](https://github.com/cognetwork-dev/Cobalt-Ratings) - Ratings for Cobalt in the 2023 TN Proxathon.
+- Galexy - New proxy site, coming soon!
+- Eclipse - Half ass web proxy.
+- Github Buttons - Create deploy buttons for Github.
+- Windows - A window system for websites or bookmarklets. Kind of a standard for bookmarklets. Sequel to Nightmare.
+- Cog Dispenser - Simple (one proxy) proxy bot. All the latest features.
 
 ### Developers
 - [Nebelung](https://github.com/Nebelung-Dev) - Owner
