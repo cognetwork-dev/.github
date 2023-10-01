@@ -25,8 +25,8 @@ We are dedicated to ending censorship by creating web proxies and other similar 
 - - [Metallic Original Source](https://github.com/cognetwork-dev/Metallic-Original-Source) - The Original source code of Metallic.
 - [Cobalt](https://github.com/cognetwork-dev/Cobalt) - A new minimal yet powerful proxy site, built for both users and developers.
 - - [Cobalt Ratings](https://github.com/cognetwork-dev/Cobalt-Ratings) - Ratings for Cobalt in the 2023 TN Proxathon.
-- Galaxy - New proxy site, coming soon!
-- Eclipse - Half ass web proxy.
+- [Galaxy](https://github.com/cognetwork-dev/Galaxy) - A stunning web proxy with support for many popular sites.
+- Eclipse - Web proxy.
 - Github Buttons - Create deploy buttons for Github.
 - Windows - A window system for websites or bookmarklets. Kind of a standard for bookmarklets. Sequel to Nightmare.
 - Cog Dispenser - Simple (one proxy) proxy bot. All the latest features.
