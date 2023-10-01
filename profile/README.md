@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://discord.gg/yk33HZSZkU"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
-<a href="https://twitter.com/Fog_Network"><img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><img></a>
+<a href="https://x.com/cognetworkdev"><img height="30px" src="https://img.shields.io/badge/X%20(Twitter)-%23e7e9ea.svg?style=for-the-badge&logo=X&logoColor=black"><img></a>
 <a href="https://reddit.com/r/FogNetwork"><img height="30px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"><img></a>
 </p>
 
