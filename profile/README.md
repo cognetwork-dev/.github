@@ -26,10 +26,10 @@ We are dedicated to ending censorship by creating web proxies and other similar 
 - [Cobalt](https://github.com/cognetwork-dev/Cobalt) - A new minimal yet powerful proxy site, built for both users and developers.
 - - [Cobalt Ratings](https://github.com/cognetwork-dev/Cobalt-Ratings) - Ratings for Cobalt in the 2023 TN Proxathon.
 - [Galaxy](https://github.com/cognetwork-dev/Galaxy) - A stunning web proxy with support for many popular sites.
+- [Cog Dispenser](https://github.com/cognetwork-dev/Cog-Dispenser) - Simple, one proxy proxy discord bot with all the latest features.
 - Eclipse - Web proxy.
 - Github Buttons - Create deploy buttons for Github.
 - Windows - A window system for websites or bookmarklets. Kind of a standard for bookmarklets. Sequel to Nightmare.
-- Cog Dispenser - Simple (one proxy) proxy bot. All the latest features.
 
 ### Developers
 - [Nebelung](https://github.com/Nebelung-Dev) - Owner
