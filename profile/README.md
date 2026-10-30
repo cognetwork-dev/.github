@@ -19,8 +19,7 @@ We are dedicated to ending censorship by creating web proxies and other similar 
 - Open source projects
 
 ### Projects
-- [Metallic](https://github.com/cognetwork-dev/Metallic) - A powerful web proxy build for speed and customization.
-- - [Metallic Original Source](https://github.com/cognetwork-dev/Metallic-Original-Source) - The Original source code of Metallic.
+- [Metallic](https://github.com/Metallic-Web/Metallic) - A powerful web proxy build for speed and customization.
 - [Cobalt](https://github.com/cognetwork-dev/Cobalt) - A new minimal yet powerful proxy site, built for both users and developers.
 - - [Cobalt Ratings](https://github.com/cognetwork-dev/Cobalt-Ratings) - Ratings for Cobalt in the 2023 TN Proxathon.
 - [Galaxy](https://github.com/cognetwork-dev/Galaxy) - A stunning web proxy with support for many popular sites.
